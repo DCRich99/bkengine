@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tpgent01/book-search-engine.git"
+    "url": "git+https://github.com/DCRich99/bkengine.git"
   },
   "keywords": [],
   "author": "",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "https://github.com/tpgent01/book-search-engine#readme",
+  "homepage": "https://github.com/DCRich99/bkengine.git",
   "dependencies": {
     "if-env": "^1.0.4"
   },
