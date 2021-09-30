@@ -6,24 +6,6 @@
 A project to take a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. 
 
 
-## 📓 Table of Contents
-
-- [Book Search Engine](#book-search-engine)
-  - [💬 Description](#-description)
-  - [📓 Table of Contents](#-table-of-contents)
-  - [🧠User Story](#user-story)
-  - [🧩Acceptance Criteria](#acceptance-criteria)
-  - [🎨Mock-Up](#mock-up)
-  - [🔌Installation](#installation)
-  - [💻Usage](#usage)
-  - [✏️Built With](#️built-with)
-  - [🔐License](#license)
-  - [🏆Badges](#badges)
-  - [📊Tests](#tests)
-  - [❓Questions](#questions)
-  - [📌Contributing](#contributing)
-
-
 ## 🧠User Story
 ```
 AS AN avid reader
@@ -66,17 +48,6 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 
 
-## 🎨Mock-Up
-<br>**As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear:**</br>
-<br>![](assets/mock-up1.gif)</br>
-
-<br>**The user can save books by clicking "Save This Book!" under each search result, as shown in the following animation:**</br>
-<br>![](assets/mock-up2.gif)</br>
-
-<br>**A user can view their saved books on a separate page, as shown in the following animation:**</br>
-<br>![](assets/mock-up3.gif)</br>
-
-
 ## 🔌Installation
 
 The user should clone the repository from GitHub and open up the project in their code editor.
@@ -85,8 +56,6 @@ The user should clone the repository from GitHub and open up the project in thei
 
 ## 💻Usage 
 To run on _localhost:3001_, please run command _npm start_ to start the server and _control C_ to stop.
-<br>To run program on Heroku, please [click here](https://thawing-mesa-03929.herokuapp.com/).</br>
-<br>![](assets/example.gif)</br>
 
 
 ## ✏️Built With
@@ -102,17 +71,6 @@ Licensed under the MIT license.
 ```
 
 
-## 🏆Badges
-
-![GitHub top language](https://img.shields.io/github/languages/top/tpgent01/book-search-engine?color=red&style=plastic)
-<br>![GitHub repo size](https://img.shields.io/github/repo-size/tpgent01/book-search-engine?color=orange&style=plastic)</br>
-![GitHub language count](https://img.shields.io/github/languages/count/tpgent01/book-search-engine?color=yellow&style=plastic)
-<br>![GitHub closed issues](https://img.shields.io/github/issues-closed/tpgent01/book-search-engine?color=brightgreen&style=plastic)</br>
-![GitHub last commit](https://img.shields.io/github/last-commit/tpgent01/book-search-engine?color=blueviolet&style=plastic)
-<br>![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tpgent01/book-search-engine?color=ff69b4&style=plastic)</br>
-![GitHub watchers](https://img.shields.io/github/watchers/tpgent01/book-search-engine?style=social)
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/tpgent01/book-search-engine?style=social)</br>
-
 
 
 ## 📊Tests
@@ -121,12 +79,3 @@ To test this project, please see the [Installation](#installation) section.
 <br>After the project is on your local, run _npm start_ to start the server and open [Insomnia Core](https://insomnia.rest/products/insomnia) to test API routes.</br>
 
 
-## ❓Questions
-
-If you have any questions about this projects, please contact me directly at tpgent01@outlook.com. 
-<br>You can view more of my projects at https://github.com/tpgent01 👾</br>
-
-
-## 📌Contributing
-
-Taylor Gentry ©2021 All Rights Reserved.
